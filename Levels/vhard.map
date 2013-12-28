@@ -1,0 +1,8 @@
+Normal.Normal.Hole.Hole.Hole.Normal.Normal.Hole.Hole.Hole.Hole.Hole.Hole.Hole
+Normal.Normal.Normal.Hole.Hole.Hole.Slider,5.Hole.Hole.Normal.Normal.Normal.Normal.Normal.Teleport,8,5
+Normal.Normal.Normal.Hole.Hole.Hole.Hole.Hole.Normal.Hole.Hole.Hole.Hole.Hole
+Normal.Normal.Normal.Normal.Hole.Hole.Hole.Hole.Hole.Normal.Broken.Normal.Normal.Normal.Normal
+Normal.Normal.Normal.Normal.Hole.Hole.Hole.Slider,1.Hole.Broken.Hole.Hole.Hole.Hole
+Teleport,0,4.Teleport,0,4.Normal.Normal.Hole.Hole.Hole.Normal.Normal.Broken.Normal.Normal.Normal.Teleport,14,1.Teleport,14,3
+Spawn.Teleport,0,4.Normal.Hole.Hole.Hole.Hole.Hole.Broken.Normal.Normal.Normal.Hole.Slider,6
+Teleport,0,4.Teleport,0,4.Normal.Hole.Hole.Hole.Teleport,14,7.Broken.Broken.Normal.Normal.Normal.Normal.Hole.Spawn

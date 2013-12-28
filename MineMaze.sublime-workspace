@@ -1,0 +1,652 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"po",
+				"pol2"
+			],
+			[
+				"en",
+				"en_rep_n"
+			],
+			[
+				"v_",
+				"v_w"
+			],
+			[
+				"v",
+				"v_range"
+			],
+			[
+				"pop",
+				"populacao"
+			],
+			[
+				"en_",
+				"en_rep_n"
+			],
+			[
+				"en_re",
+				"en_rep_n"
+			],
+			[
+				"es",
+				"espacosl"
+			],
+			[
+				"vec",
+				"vector2"
+			],
+			[
+				"rand",
+				"randint"
+			],
+			[
+				"ran",
+				"randint"
+			],
+			[
+				"ra",
+				"random"
+			],
+			[
+				"C",
+				"Cow"
+			],
+			[
+				"R",
+				"Rabbit"
+			],
+			[
+				"In",
+				"Ind_Vis"
+			],
+			[
+				"t_",
+				"t_parado"
+			],
+			[
+				"sp",
+				"spawn_cd"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"spaw",
+				"spawn_cd"
+			],
+			[
+				"popu",
+				"populacao_inicial"
+			],
+			[
+				"tar",
+				"target"
+			],
+			[
+				"get",
+				"get_pos"
+			],
+			[
+				"de",
+				"debug"
+			],
+			[
+				"in",
+				"indice"
+			],
+			[
+				"sopa",
+				"sopa_de_letras"
+			],
+			[
+				"valo",
+				"valores_abaixo"
+			],
+			[
+				"ma",
+				"menor_maior"
+			],
+			[
+				"rev",
+				"rev_lista"
+			],
+			[
+				"top",
+				"top_left"
+			],
+			[
+				"print",
+				"print_matrix"
+			],
+			[
+				"alf",
+				"alf_f"
+			],
+			[
+				"strin",
+				"string_ori"
+			],
+			[
+				"string",
+				"string_to_lista"
+			],
+			[
+				"G",
+				"GUI_Especie"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"tex",
+				"textRect"
+			],
+			[
+				"lista",
+				"lista_hb"
+			],
+			[
+				"lsta",
+				"lista_hb"
+			],
+			[
+				"lis",
+				"lista_pr"
+			],
+			[
+				"e",
+				"eco_x"
+			],
+			[
+				"eco_",
+				"eco_y"
+			],
+			[
+				"ec",
+				"eco_y"
+			],
+			[
+				"max_",
+				"max_x"
+			],
+			[
+				"le",
+				"leSurf_tr"
+			],
+			[
+				"su",
+				"Surface"
+			],
+			[
+				"gl",
+				"glSurf"
+			],
+			[
+				"l",
+				"leSurf"
+			],
+			[
+				"Le",
+				"LeSurf_tr"
+			],
+			[
+				"sur",
+				"surf_tr"
+			],
+			[
+				"w",
+				"windowSurface"
+			],
+			[
+				"max",
+				"max_x"
+			],
+			[
+				"loca",
+				"localSurfaceTr"
+			],
+			[
+				"local",
+				"localSurface"
+			],
+			[
+				"He",
+				"Herbivoros_2"
+			],
+			[
+				"vis",
+				"vis_w"
+			],
+			[
+				"Local",
+				"localSurface"
+			],
+			[
+				"paint",
+				"paint_tr"
+			],
+			[
+				"pa",
+				"paint"
+			],
+			[
+				"s",
+				"size"
+			],
+			[
+				"t_v_",
+				"t_v_x"
+			],
+			[
+				"O",
+				"Omnivoros_2"
+			],
+			[
+				"Es",
+				"Especie"
+			],
+			[
+				"E",
+				"Especie_B"
+			],
+			[
+				"pain",
+				"paint_tr"
+			],
+			[
+				"Esp",
+				"Especie_A"
+			],
+			[
+				"ty",
+				"t_y"
+			],
+			[
+				"a",
+				"alimento"
+			],
+			[
+				"tra",
+				"tranSurface"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"target",
+				"target_x"
+			],
+			[
+				"dist",
+				"dist_min"
+			],
+			[
+				"olf",
+				"olf_range"
+			],
+			[
+				"ol",
+				"olf_range"
+			],
+			[
+				"g",
+				"get_x_y"
+			],
+			[
+				"x",
+				"x"
+			],
+			[
+				"fras",
+				"frase_nova"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "\n	\"auto_complete\":\n	{\n		\"selected_items\":\n		[\n			[\n				\"po\",\n				\"pol2\"\n			],\n			[\n				\"en\",\n				\"en_rep_n\"\n			],\n			[\n				\"v_\",\n				\"v_w\"\n			],\n			[\n				\"v\",\n				\"v_range\"\n			],\n			[\n				\"pop\",\n				\"populacao\"\n			],\n			[\n				\"en_\",\n				\"en_rep_n\"\n			],\n			[\n				\"en_re\",\n				\"en_rep_n\"\n			],\n			[\n				\"es\",\n				\"espacosl\"\n			],\n			[\n				\"vec\",\n				\"vector2\"\n			],\n			[\n				\"rand\",\n				\"randint\"\n			],\n			[\n				\"ran\",\n				\"randint\"\n			],\n			[\n				\"ra\",\n				\"random\"\n			],\n			[\n				\"C\",\n				\"Cow\"\n			],\n			[\n				\"R\",\n				\"Rabbit\"\n			],\n			[\n				\"In\",\n				\"Ind_Vis\"\n			],\n			[\n				\"t_\",\n				\"t_parado\"\n			],\n			[\n				\"sp\",\n				\"spawn_cd\"\n			],\n			[\n				\"se\",\n				\"self\"\n			],\n			[\n				\"spaw\",\n				\"spawn_cd\"\n			],\n			[\n				\"popu\",\n				\"populacao_inicial\"\n			],\n			[\n				\"tar\",\n				\"target\"\n			],\n			[\n				\"get\",\n				\"get_pos\"\n			],\n			[\n				\"de\",\n				\"debug\"\n			],\n			[\n				\"in\",\n				\"indice\"\n			],\n			[\n				\"sopa\",\n				\"sopa_de_letras\"\n			],\n			[\n				\"valo\",\n				\"valores_abaixo\"\n			],\n			[\n				\"ma\",\n				\"menor_maior\"\n			],\n			[\n				\"rev\",\n				\"rev_lista\"\n			],\n			[\n				\"top\",\n				\"top_left\"\n			],\n			[\n				\"print\",\n				\"print_matrix\"\n			],\n			[\n				\"alf\",\n				\"alf_f\"\n			],\n			[\n				\"strin\",\n				\"string_ori\"\n			],\n			[\n				\"string\",\n				\"string_to_lista\"\n			],\n			[\n				\"G\",\n				\"GUI_Especie\"\n			],\n			[\n				\"co\",\n				\"color\"\n			],\n			[\n				\"tex\",\n				\"textRect\"\n			],\n			[\n				\"lista\",\n				\"lista_hb\"\n			],\n			[\n				\"lsta\",\n				\"lista_hb\"\n			],\n			[\n				\"lis\",\n				\"lista_pr\"\n			],\n			[\n				\"e\",\n				\"eco_x\"\n			],\n			[\n				\"eco_\",\n				\"eco_y\"\n			],\n			[\n				\"ec\",\n				\"eco_y\"\n			],\n			[\n				\"max_\",\n				\"max_x\"\n			],\n			[\n				\"le\",\n				\"leSurf_tr\"\n			],\n			[\n				\"su\",\n				\"Surface\"\n			],\n			[\n				\"gl\",\n				\"glSurf\"\n			],\n			[\n				\"l\",\n				\"leSurf\"\n			],\n			[\n				\"Le\",\n				\"LeSurf_tr\"\n			],\n			[\n				\"sur\",\n				\"surf_tr\"\n			],\n			[\n				\"w\",\n				\"windowSurface\"\n			],\n			[\n				\"max\",\n				\"max_x\"\n			],\n			[\n				\"loca\",\n				\"localSurfaceTr\"\n			],\n			[\n				\"local\",\n				\"localSurface\"\n			],\n			[\n				\"He\",\n				\"Herbivoros_2\"\n			],\n			[\n				\"vis\",\n				\"vis_w\"\n			],\n			[\n				\"Local\",\n				\"localSurface\"\n			],\n			[\n				\"paint\",\n				\"paint_tr\"\n			],\n			[\n				\"pa\",\n				\"paint\"\n			],\n			[\n				\"s\",\n				\"size\"\n			],\n			[\n				\"t_v_\",\n				\"t_v_x\"\n			],\n			[\n				\"O\",\n				\"Omnivoros_2\"\n			],\n			[\n				\"Es\",\n				\"Especie\"\n			],\n			[\n				\"E\",\n				\"Especie_B\"\n			],\n			[\n				\"pain\",\n				\"paint_tr\"\n			],\n			[\n				\"Esp\",\n				\"Especie_A\"\n			],\n			[\n				\"ty\",\n				\"t_y\"\n			],\n			[\n				\"a\",\n				\"alimento\"\n			],\n			[\n				\"tra\",\n				\"tranSurface\"\n			],\n			[\n				\"pr\",\n				\"print\"\n			],\n			[\n				\"target\",\n				\"target_x\"\n			],\n			[\n				\"dist\",\n				\"dist_min\"\n			],\n			[\n				\"olf\",\n				\"olf_range\"\n			],\n			[\n				\"ol\",\n				\"olf_range\"\n			],\n			[\n				\"g\",\n				\"get_x_y\"\n			],\n			[\n				\"x\",\n				\"x\"\n			],\n			[\n				\"fras\",\n				\"frase_nova\"\n			]\n		]\n	},\n	\"buffers\":\n	[\n	],\n	\"build_system\": \"Packages/Python/Python.sublime-build\",\n	\"command_palette\":\n	{\n		\"height\": 392.0,\n		\"selected_items\":\n		[\n		],\n		\"width\": 392.0\n	},\n	\"console\":\n	{\n		\"height\": 0.0\n	},\n	\"distraction_free\":\n	{\n		\"menu_visible\": true,\n		\"show_minimap\": false,\n		\"show_open_files\": false,\n		\"show_tabs\": false,\n		\"side_bar_visible\": false,\n		\"status_bar_visible\": false\n	},\n	\"file_history\":\n	[\n		\"/media/9204B89A04B882B1/Comum/Dropbox/Gui/LEI/1º Ano/1º Semestre/IPRP/Exercicios/Guiao 5/5.16b.py\",\n		\"/media/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Survival/Especie_Base.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Survival/Listas.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Survival/Individuo.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Survival/Reproducao.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Survival/Especie_Base.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Survival/Especies.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Survival/Survival.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Survival/Tipo.py\",\n		\"/media/9204B89A04B882B1/Comum/Dropbox/Gui/LEI/1º Ano/1º Semestre/IPRP/Exercicios/Guiao 5/5.10.py\",\n		\"/media/9204B89A04B882B1/Comum/Dropbox/Gui/LEI/1º Ano/1º Semestre/IPRP/Exercicios/Guiao 6/6.1.py\",\n		\"/media/9204B89A04B882B1/Comum/Dropbox/Gui/LEI/1º Ano/1º Semestre/IPRP/Exercicios/Guiao 5/5.16.py\",\n		\"/media/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Survival/Menu_Resources.py\",\n		\"/media/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Survival/Survival.py\",\n		\"/media/9204B89A04B882B1/Comum/Dropbox/Gui/LEI/1º Ano/1º Semestre/IPRP/Exercicios/Guiao 5/5.09.py\",\n		\"/media/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Survival/Colors.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/MineMaze/MineClass.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/MineMaze/untitled.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/MineMaze/Main.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/LEI/1º Ano/1º Semestre/IPRP/Exercicios/Guiao 5/5.16.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Survival/Funcoes.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Survival/Colors.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Survival/Menus.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Survival/GameObjects.py\",\n		\"/run/media/Graca/9204B89A04B882B1/altera/91sp2/TP2/grupo12/votador2.vhd\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/LEI/1º Ano/1º Semestre/IPRP/Exercicios/Guiao 5/5.01.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/LEI/1º Ano/1º Semestre/IPRP/Exercicios/Guiao 5/5.14.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/LEI/1º Ano/1º Semestre/IPRP/Exercicios/Guiao 5/5.13.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/LEI/1º Ano/1º Semestre/IPRP/Exercicios/Guiao 5/5.12.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/LEI/1º Ano/1º Semestre/IPRP/Exercicios/Guiao 5/5.11.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/LEI/1º Ano/1º Semestre/IPRP/Exercicios/Guiao 5/5.10.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/LEI/1º Ano/1º Semestre/IPRP/Exercicios/Guiao 5/5.09.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/LEI/1º Ano/1º Semestre/IPRP/Exercicios/Guiao 5/5.08.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/LEI/1º Ano/1º Semestre/IPRP/Exercicios/Guiao 5/5.7.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Survival/Especie.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Survival/Gente/Individuo.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Survival/Menus/Menus.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Survival/S1.2/Menu.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Survival/Older Versions/S1.2/Survival.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Survival/S1.2/GameObjects.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Survival/S1.2/Survival.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Survival/Vars.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Survival/S1.1/Survival.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/NEW/Main.py\",\n		\"/home/Graca/Desktop/5.16.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/NEW/a.png\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/LEI/1º Ano/1º Semestre/IPRP/Exercicios/Guiao 5/5.15.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/LEI/1º Ano/1º Semestre/IPRP/Exercicios/Guiao 5/5.6.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/LEI/1º Ano/1º Semestre/IPRP/Exercicios/Guiao 5/5.5.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/LEI/1º Ano/1º Semestre/IPRP/Exercicios/Guiao 5/5.4.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/LEI/1º Ano/1º Semestre/IPRP/Exercicios/Guiao 5/5.3.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/LEI/1º Ano/1º Semestre/IPRP/Exercicios/Guiao 5/5.2.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/LEI/1º Ano/1º Semestre/IPRP/Exercicios/Guiao 5/5.1.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/LEI/1º Ano/1º Semestre/IPRP/Exercicios/Guiao 4/Encriptacao.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/PyGame.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/NEW/untitled.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/NEW/Tabs.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/NEW/MineClass.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Survival/Class.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/NEW/Screens.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Java/Algoritmia/src/WeightedQuickUnionUF.java\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Java/Algoritmia/src/QuickUnionUF.java\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Java/Algoritmia/src/QuickFindUF.java\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Java/Algoritmia/src/Main.java\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Java/Algoritmia/bin/Main.class\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Java/Algoritmia/bin/QuickFindUF.class\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Java/Algoritmia/bin/QuickUnionUF.class\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Java/Algoritmia/bin/WeightedQuickUnionUF.class\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Ideias\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Survival/Global.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Survival/Menu.py\",\n		\"/home/Graca/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap\",\n		\"/home/Graca/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings\",\n		\"/home/Graca/.config/sublime-text-2/Packages/User/Python.sublime-settings\",\n		\"/home/Graca/.config/sublime-text-2/Packages/User/Distraction Free.sublime-settings\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Survival/Class2.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/LEI/1º Ano/1º Semestre/IPRP/Hobby/Python/MineMaze/Vars.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/LEI/1º Ano/1º Semestre/IPRP/Hobby/Python/MineMaze/Class.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/LEI/1º Ano/1º Semestre/IPRP/Hobby/Python/MineMaze/MineMaze.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/LEI/1º Ano/1º Semestre/IPRP/Hobby/Python/PyGame.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/LEI/1º Ano/1º Semestre/IPRP/Hobby/Python/Survival/Survival.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/LEI/1º Ano/1º Semestre/IPRP/Hobby/Python/Survival/Ideias.txt~\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/LEI/1º Ano/1º Semestre/IPRP/Hobby/Python/Survival/Vars.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/LEI/1º Ano/1º Semestre/IPRP/Hobby/Python/Survival/Class.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/LEI/1º Ano/1º Semestre/IPRP/Hobby/Python/Survival/Ideias.txt\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/LEI/1º Ano/1º Semestre/IPRP/Hobby/Python/Pong/Vars.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/LEI/1º Ano/1º Semestre/IPRP/Hobby/Python/Pong/Pong_Class.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/LEI/1º Ano/1º Semestre/IPRP/Hobby/Python/Pong/Pong.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/LEI/1º Ano/1º Semestre/IPRP/Exercicios/Guiao 4/Encript_2.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/LEI/1º Ano/1º Semestre/IPRP/Exercicios/Guiao 4/Remove_Extra_Spaces.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/LEI/1º Ano/1º Semestre/IPRP/Exercicios/Guiao 4/Encript_-1.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/LEI/1º Ano/1º Semestre/IPRP/Exercicios/Guiao 4/Encript_1.py\",\n		\"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/LEI/1º Ano/1º Semestre/IPRP/Exercicios/Guiao 4/Valor_Numerico.py\",\n		\"/home/Graca/Downloads/627136_2012_iprp_guiao_4.pdf\"\n	],\n	\"find\":\n	{\n		\"height\": 34.0\n	},\n	\"find_in_files\":\n	{\n		\"height\": 0.0,\n		\"where_history\":\n		[\n		]\n	},\n	\"find_state\":\n	{\n		\"case_sensitive\": false,\n		\"find_history\":\n		[\n			\"spawn\",\n			\"ener\",\n			\"Rabbit\",\n			\"bombas\",\n			\"range\",\n			\"2\",\n			\"Lobo\",\n			\"lista\",\n			\"parado\",\n			\"i.t_pa\",\n			\"set_pos\",\n			\"speed\",\n			\"enimigo\",\n			\"set_t_x_y\",\n			\"set_t_pos\",\n			\"x_y\",\n			\"#----------------------------------------------------\",\n			\"t_x\",\n			\"25\",\n			\"50\",\n			\"255\",\n			\"windowSurface\",\n			\"windo\",\n			\"windowSurface\",\n			\", \",\n			\"' ,\",\n			\" \",\n			\"’\",\n			\"’BOLA\",\n			\"’\",\n			\"’BOLA ’\",\n			\" \",\n			\"’\",\n			\"’BOLA ’\",\n			\" \",\n			\"[ \",\n			\"’BOLA\",\n			\" \",\n			\"’\",\n			\"’A\",\n			\"’\",\n			\"rev_lista\",\n			\"evento\",\n			\"y\",\n			\"sub_matrix\",\n			\"lista\",\n			\"rem_c_d\",\n			\"i\",\n			\"f\",\n			\"print\",\n			\"lista_1\",\n			\"WHITE\",\n			\"alim\",\n			\"size\",\n			\"GUI\",\n			\"HUI\",\n			\"none\",\n			\"None\",\n			\"none\",\n			\"None\",\n			\"none\",\n			\"print\",\n			\"t\",\n			\"prin\",\n			\"command\",\n			\"	{ \\\"keys\\\": [\\\"ctrl+shift+space\\\"], \\\"command\\\": \\\"expand_selection\\\", \\\"args\\\": {\\\"to\\\": \\\"scope\\\"} },\\n\",\n			\"keys\",\n			\"\\\":\",\n			\"ctrl\",\n			\"keys\",\n			\" \\\"\",\n			\"eco\",\n			\"max\",\n			\"max\\n\",\n			\"	\\n\"\n		],\n		\"highlight\": true,\n		\"in_selection\": false,\n		\"preserve_case\": false,\n		\"regex\": false,\n		\"replace_history\":\n		[\n		],\n		\"reverse\": false,\n		\"show_context\": true,\n		\"use_buffer2\": true,\n		\"whole_word\": false,\n		\"wrap\": true\n	},\n	\"groups\":\n	[\n		{\n			\"sheets\":\n			[\n			]\n		}\n	],\n	\"incremental_find\":\n	{\n		\"height\": 0.0\n	},\n	\"input\":\n	{\n		\"height\": 31.0\n	},\n	\"layout\":\n	{\n		\"cells\":\n		[\n			[\n				0,\n				0,\n				1,\n				1\n			]\n		],\n		\"cols\":\n		[\n			0.0,\n			1.0\n		],\n		\"rows\":\n		[\n			0.0,\n			1.0\n		]\n	},\n	\"menu_visible\": true,\n	\"output.exec\":\n	{\n		\"height\": 139.0\n	},\n	\"output.unsaved_changes\":\n	{\n		\"height\": 118.0\n	},\n	\"replace\":\n	{\n		\"height\": 0.0\n	},\n	\"save_all_on_build\": true,\n	\"select_file\":\n	{\n		\"height\": 0.0,\n		\"selected_items\":\n		[\n		],\n		\"width\": 0.0\n	},\n	\"select_project\":\n	{\n		\"height\": 500.0,\n		\"selected_items\":\n		[\n		],\n		\"width\": 380.0\n	},\n	\"show_minimap\": true,\n	\"show_open_files\": false,\n	\"show_tabs\": true,\n	\"side_bar_visible\": true,\n	\"side_bar_width\": 159.0,\n	\"status_bar_visible\": true\n}\n",
+			"file": "MineMaze.sublime-workspace",
+			"file_size": 14760,
+			"file_write_time": 1352713335000000,
+			"settings":
+			{
+				"buffer_size": 14655,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/media/9204B89A04B882B1/Comum/Dropbox/Gui/LEI/1º Ano/1º Semestre/IPRP/Exercicios/Guiao 5/5.16b.py",
+		"/media/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Survival/Especie_Base.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Survival/Listas.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Survival/Individuo.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Survival/Reproducao.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Survival/Especie_Base.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Survival/Especies.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Survival/Survival.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Survival/Tipo.py",
+		"/media/9204B89A04B882B1/Comum/Dropbox/Gui/LEI/1º Ano/1º Semestre/IPRP/Exercicios/Guiao 5/5.10.py",
+		"/media/9204B89A04B882B1/Comum/Dropbox/Gui/LEI/1º Ano/1º Semestre/IPRP/Exercicios/Guiao 6/6.1.py",
+		"/media/9204B89A04B882B1/Comum/Dropbox/Gui/LEI/1º Ano/1º Semestre/IPRP/Exercicios/Guiao 5/5.16.py",
+		"/media/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Survival/Menu_Resources.py",
+		"/media/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Survival/Survival.py",
+		"/media/9204B89A04B882B1/Comum/Dropbox/Gui/LEI/1º Ano/1º Semestre/IPRP/Exercicios/Guiao 5/5.09.py",
+		"/media/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Survival/Colors.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/MineMaze/MineClass.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/MineMaze/untitled.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/MineMaze/Main.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/LEI/1º Ano/1º Semestre/IPRP/Exercicios/Guiao 5/5.16.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Survival/Funcoes.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Survival/Colors.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Survival/Menus.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Survival/GameObjects.py",
+		"/run/media/Graca/9204B89A04B882B1/altera/91sp2/TP2/grupo12/votador2.vhd",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/LEI/1º Ano/1º Semestre/IPRP/Exercicios/Guiao 5/5.01.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/LEI/1º Ano/1º Semestre/IPRP/Exercicios/Guiao 5/5.14.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/LEI/1º Ano/1º Semestre/IPRP/Exercicios/Guiao 5/5.13.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/LEI/1º Ano/1º Semestre/IPRP/Exercicios/Guiao 5/5.12.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/LEI/1º Ano/1º Semestre/IPRP/Exercicios/Guiao 5/5.11.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/LEI/1º Ano/1º Semestre/IPRP/Exercicios/Guiao 5/5.10.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/LEI/1º Ano/1º Semestre/IPRP/Exercicios/Guiao 5/5.09.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/LEI/1º Ano/1º Semestre/IPRP/Exercicios/Guiao 5/5.08.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/LEI/1º Ano/1º Semestre/IPRP/Exercicios/Guiao 5/5.7.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Survival/Especie.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Survival/Gente/Individuo.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Survival/Menus/Menus.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Survival/S1.2/Menu.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Survival/Older Versions/S1.2/Survival.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Survival/S1.2/GameObjects.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Survival/S1.2/Survival.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Survival/Vars.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Survival/S1.1/Survival.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/NEW/Main.py",
+		"/home/Graca/Desktop/5.16.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/NEW/a.png",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/LEI/1º Ano/1º Semestre/IPRP/Exercicios/Guiao 5/5.15.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/LEI/1º Ano/1º Semestre/IPRP/Exercicios/Guiao 5/5.6.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/LEI/1º Ano/1º Semestre/IPRP/Exercicios/Guiao 5/5.5.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/LEI/1º Ano/1º Semestre/IPRP/Exercicios/Guiao 5/5.4.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/LEI/1º Ano/1º Semestre/IPRP/Exercicios/Guiao 5/5.3.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/LEI/1º Ano/1º Semestre/IPRP/Exercicios/Guiao 5/5.2.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/LEI/1º Ano/1º Semestre/IPRP/Exercicios/Guiao 5/5.1.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/LEI/1º Ano/1º Semestre/IPRP/Exercicios/Guiao 4/Encriptacao.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/PyGame.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/NEW/untitled.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/NEW/Tabs.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/NEW/MineClass.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Survival/Class.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/NEW/Screens.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Java/Algoritmia/src/WeightedQuickUnionUF.java",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Java/Algoritmia/src/QuickUnionUF.java",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Java/Algoritmia/src/QuickFindUF.java",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Java/Algoritmia/src/Main.java",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Java/Algoritmia/bin/Main.class",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Java/Algoritmia/bin/QuickFindUF.class",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Java/Algoritmia/bin/QuickUnionUF.class",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Java/Algoritmia/bin/WeightedQuickUnionUF.class",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Ideias",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Survival/Global.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Survival/Menu.py",
+		"/home/Graca/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/Graca/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/Graca/.config/sublime-text-2/Packages/User/Python.sublime-settings",
+		"/home/Graca/.config/sublime-text-2/Packages/User/Distraction Free.sublime-settings",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/Gui/Hobby/Python/Survival/Class2.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/LEI/1º Ano/1º Semestre/IPRP/Hobby/Python/MineMaze/Vars.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/LEI/1º Ano/1º Semestre/IPRP/Hobby/Python/MineMaze/Class.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/LEI/1º Ano/1º Semestre/IPRP/Hobby/Python/MineMaze/MineMaze.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/LEI/1º Ano/1º Semestre/IPRP/Hobby/Python/PyGame.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/LEI/1º Ano/1º Semestre/IPRP/Hobby/Python/Survival/Survival.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/LEI/1º Ano/1º Semestre/IPRP/Hobby/Python/Survival/Ideias.txt~",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/LEI/1º Ano/1º Semestre/IPRP/Hobby/Python/Survival/Vars.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/LEI/1º Ano/1º Semestre/IPRP/Hobby/Python/Survival/Class.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/LEI/1º Ano/1º Semestre/IPRP/Hobby/Python/Survival/Ideias.txt",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/LEI/1º Ano/1º Semestre/IPRP/Hobby/Python/Pong/Vars.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/LEI/1º Ano/1º Semestre/IPRP/Hobby/Python/Pong/Pong_Class.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/LEI/1º Ano/1º Semestre/IPRP/Hobby/Python/Pong/Pong.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/LEI/1º Ano/1º Semestre/IPRP/Exercicios/Guiao 4/Encript_2.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/LEI/1º Ano/1º Semestre/IPRP/Exercicios/Guiao 4/Remove_Extra_Spaces.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/LEI/1º Ano/1º Semestre/IPRP/Exercicios/Guiao 4/Encript_-1.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/LEI/1º Ano/1º Semestre/IPRP/Exercicios/Guiao 4/Encript_1.py",
+		"/run/media/Graca/9204B89A04B882B1/Comum/Dropbox/LEI/1º Ano/1º Semestre/IPRP/Exercicios/Guiao 4/Valor_Numerico.py",
+		"/home/Graca/Downloads/627136_2012_iprp_guiao_4.pdf"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"spawn",
+			"ener",
+			"Rabbit",
+			"bombas",
+			"range",
+			"2",
+			"Lobo",
+			"lista",
+			"parado",
+			"i.t_pa",
+			"set_pos",
+			"speed",
+			"enimigo",
+			"set_t_x_y",
+			"set_t_pos",
+			"x_y",
+			"#----------------------------------------------------",
+			"t_x",
+			"25",
+			"50",
+			"255",
+			"windowSurface",
+			"windo",
+			"windowSurface",
+			", ",
+			"' ,",
+			" ",
+			"’",
+			"’BOLA",
+			"’",
+			"’BOLA ’",
+			" ",
+			"’",
+			"’BOLA ’",
+			" ",
+			"[ ",
+			"’BOLA",
+			" ",
+			"’",
+			"’A",
+			"’",
+			"rev_lista",
+			"evento",
+			"y",
+			"sub_matrix",
+			"lista",
+			"rem_c_d",
+			"i",
+			"f",
+			"print",
+			"lista_1",
+			"WHITE",
+			"alim",
+			"size",
+			"GUI",
+			"HUI",
+			"none",
+			"None",
+			"none",
+			"None",
+			"none",
+			"print",
+			"t",
+			"prin",
+			"command",
+			"	{ \"keys\": [\"ctrl+shift+space\"], \"command\": \"expand_selection\", \"args\": {\"to\": \"scope\"} },\n",
+			"keys",
+			"\":",
+			"ctrl",
+			"keys",
+			" \"",
+			"eco",
+			"max",
+			"max\n",
+			"	\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "MineMaze.sublime-workspace",
+					"settings":
+					{
+						"buffer_size": 14655,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 139.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 462.0,
+	"status_bar_visible": true
+}

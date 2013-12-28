@@ -1,0 +1,5 @@
+Hole.         Hole.         Hole.         Hole
+Teleport,2,3. Normal.       Teleport,4,3. Normal.       Teleport,2,3
+Teleport,1,1. Teleport,0,0. Teleport,0,3. Teleport,0,0
+Normal.       Teleport,0,0. Normal.       Teleport,3,1. Normal
+Hole.         Hole.         Hole.         Hole

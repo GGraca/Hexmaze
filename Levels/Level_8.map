@@ -1,0 +1,5 @@
+Spawn.Teleport,0,4.Hole.Hole.Broken.Broken.Broken
+Teleport,6,0.Broken.Hole.Hole.Broken.Hole.Hole.Hole
+Hole.Broken.Broken.Slider,2.Broken.Broken.Hole
+Hole.Hole.Hole.Broken.Hole.Hole.Broken.Teleport,0,4
+Broken.Broken.Broken.Hole.Hole.Teleport,6,0.Spawn
